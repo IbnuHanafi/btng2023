@@ -1,0 +1,43 @@
+h1 {
+    color: red;
+}
+#judul {font-size:800;
+color: blue;
+}
+
+.content{
+    color: green;
+}
+.p1, .p3{
+    color: rgb(52, 186, 113);
+    text-shadow: 5px 3px 5px red;
+}
+.link:hover{
+    background-color: black;
+    color: white;
+}
+.container{
+    border: 4px solid blue;
+}
+.box{
+    border: 2px solid;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+}
+.box .content{
+    border: 1px solid blue;
+    background-color: green;
+}
+.box p{
+    color: white;
+}
+body{
+    background-color: rgb(222, 217, 181);
+    background-image: url(../Image/download.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+.border {
+    border: 1px solid
+}
